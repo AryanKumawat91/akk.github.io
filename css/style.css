@@ -1,0 +1,18 @@
+table{
+    border-spacing: 20px;
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+    
+}
+body{
+    background-color: #98af7c;
+}
+hr{
+    border-color: rgb(121, 83, 146);
+    width: 100%;
+    border-style: none;
+    border-top-style: dotted ;
+    border-width: 7px;
+    
+}
